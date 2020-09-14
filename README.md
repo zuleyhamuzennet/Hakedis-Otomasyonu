@@ -1,2 +1,2 @@
-# Hakediş Programı
- Hakediş Programı
+# Hakediş Otomasyonu
+ Hakediş Otomasyonu
